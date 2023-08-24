@@ -102,7 +102,7 @@ const Navbar = () => {
         <div className="flex flex-col items-center"> {/* Wrap the images in a div */}
          
           <img 
-            src="/plus.png" 
+            src="/Plus.png" 
             style={{
               width: '20px',
               height: '20px',
