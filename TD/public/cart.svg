@@ -1,0 +1,16 @@
+<svg width="42" height="43" viewBox="0 0 42 43" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Cart-vector" filter="url(#filter0_i_37_134)">
+<path d="M12.8214 34.4C10.4708 34.4 8.56895 36.335 8.56895 38.7C8.56895 41.065 10.4708 43 12.8214 43C15.1719 43 17.0952 41.065 17.0952 38.7C17.0952 36.335 15.1719 34.4 12.8214 34.4ZM34.1903 34.4C31.8397 34.4 29.9379 36.335 29.9379 38.7C29.9379 41.065 31.8397 43 34.1903 43C36.5409 43 38.4641 41.065 38.4641 38.7C38.4641 36.335 36.5409 34.4 34.1903 34.4ZM15.1719 23.65H31.0918C32.6945 23.65 34.1048 22.7685 34.8314 21.4355L41.7549 8.2345C42.2891 7.2025 41.9259 5.9125 40.9002 5.3535C39.8531 4.773 38.5496 5.1815 37.994 6.235L31.0918 19.35H16.0908L6.98764 0H2.13689C0.961602 0 0 0.9675 0 2.15C0 3.3325 0.961602 4.3 2.13689 4.3H4.27379L11.9666 20.6185L9.0818 25.8645C7.52187 28.7455 9.57329 32.25 12.8214 32.25H36.3272C37.5025 32.25 38.4641 31.2825 38.4641 30.1C38.4641 28.9175 37.5025 27.95 36.3272 27.95H12.8214L15.1719 23.65Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_i_37_134" x="0" y="0" width="42" height="43" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dx="0.5" dy="0.5"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.12549 0 0 0 0 0.12549 0 0 0 0 0.12549 0 0 0 0.2 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_37_134"/>
+</filter>
+</defs>
+</svg>
